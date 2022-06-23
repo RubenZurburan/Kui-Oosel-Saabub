@@ -1,8 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new forms of governemnts, make sure they are uniquely named.
 
-
-
 proletarian_dictatorship = {
     #which ideology of parties.
     communist = yes
@@ -80,7 +78,6 @@ absolute_monarchy = {
     conservative = yes
     reactionary = yes
 
-
     election = no
     appoint_ruling_party = yes
     flagType = monarchy
@@ -91,7 +88,6 @@ prussian_constitutionalism = {
     socialist = yes
     conservative = yes
     reactionary = yes
-
 
     election = yes
     duration = 48
@@ -107,7 +103,6 @@ hms_government = {
     communist = yes
     radical = yes
     fascist = yes
-
 
     election = yes
     duration = 48
@@ -143,7 +138,6 @@ democracy = {
     radical = yes
     fascist = yes
 
-
     election = yes
     duration = 48
     appoint_ruling_party = no
@@ -155,9 +149,10 @@ oligarchic_republic = {
     conservative = yes
     reactionary = yes
     socialist = yes
+	fascist = yes
 
     election = yes
-    duration = 48
+    duration = 60
     appoint_ruling_party = no
 }
 
@@ -175,7 +170,6 @@ absolute_empire = {
     conservative = yes
     reactionary = yes
 
-
     election = no
     appoint_ruling_party = yes
     flagType = monarchy
@@ -186,7 +180,6 @@ semi_constitutional_empire = {
     socialist = yes
     conservative = yes
     reactionary = yes
-
 
     election = yes
     duration = 48
@@ -202,7 +195,6 @@ constitutional_empire = {
     communist = yes
     radical = yes
     fascist = yes
-
 
     election = yes
     duration = 48
